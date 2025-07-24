@@ -38,7 +38,7 @@ I’ve put this into practice, turning a detailed spec into automated test code,
 
 This entire process hinges on a well-defined flow. The diagram below illustrates this spec-driven approach, from initial business requirements to a tested, deployable artifact:
 
-[An iterative workflow with the Product Spec as the single source of truth, serving as the ultimate prompt for development, testing, and documentation.](img/efficient_software_engineering_ning_2025.svg)
+![An iterative workflow with the Product Spec as the single source of truth, serving as the ultimate prompt for development, testing, and documentation.](img/efficient_software_engineering_ning_2025.svg)
 
 
 ### Outlook
